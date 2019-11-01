@@ -1,2 +1,0 @@
-# Dominik-dic
-Dicionários 
