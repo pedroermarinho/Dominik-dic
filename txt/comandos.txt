@@ -1,0 +1,72 @@
+﻿QUE HORAS SÃO||cmd_hora
+Me Diga As Horas||cmd_hora
+horas||cmd_hora
+hora||cmd_hora
+QUAL É A DATA DE HOJE||cmd_data
+DATA DE HOJE||cmd_data
+Me diga qual e a data de hoje||cmd_data
+data||cmd_data
+Dia da semana||cmd_semana
+semana||cmd_semana
+COMANDOS||cmd_lista_comandos
+COMANDO||cmd_lista_comandos
+funções||cmd_lista_comandos
+função||cmd_lista_comandos
+O que você sabe fazer?||cmd_lista_comandos
+O que você pode fazer?||cmd_lista_comandos
+Oq vc sabe fazer ?||cmd_lista_comandos
+me mostre o que você pode fazer||cmd_lista_comandos
+me mostre o que você sabe fazer||cmd_lista_comandos
+Treinar_123||cmd_treinar
+PIADA||cmd_piadas
+PIADAS||cmd_piadas||cmd_piadas
+Quero mais piadas||cmd_piadas
+mais piadas||cmd_piadas
+me fala uma piada||cmd_piadas
+Me conte uma piada||cmd_piadas
+Conte-me uma piada||cmd_piadas
+Fala uma piada||cmd_piadas
+me Fala uma piada||cmd_piadas
+/piadas||cmd_piadas
+START||/start
+/start||/start
+Charada||cmd_Charadas
+Me fale uma Charada||cmd_Charadas
+Bot, diga uma Charada||cmd_Charadas
+Dominik, diga uma Charada||cmd_Charadas
+mais Charada||cmd_Charadas
+quero mais Charada||cmd_Charadas
+citações||cmd_citacoes
+citação||cmd_citacoes
+Bot, diga uma frase||cmd_citacoes
+Dominik, diga uma frase||cmd_citacoes
+diga uma frase||cmd_citacoes
+me diga uma frase||cmd_citacoes
+Outra frase||cmd_citacoes
+eu queria uma frase||cmd_citacoes
+eu quero uma frase||cmd_citacoes
+Mais uma frase||cmd_citacoes
+Quero mais frases||cmd_citacoes
+frases||cmd_citacoes
+mais frases||cmd_citacoes
+mais citações||cmd_citacoes
+curiosidades||cmd_curiosidades
+curiosidade||cmd_curiosidades
+mais curiosidade||cmd_curiosidades
+Quero mais curiosidades||cmd_curiosidades
+Me fale uma curiosidade||cmd_curiosidades
+Fala uma curiosidade||cmd_curiosidades
+Me fale sobre você?||/start
+Me fale sobre vc?||/start
+Quem é vc?||/start
+Quem é você?||/start
+Conte me um pouco sobre você||/start
+Conte-me um pouco sobre você||/start
+Me Conte sobre você||/start
+provérbio||cmd_proverbio
+quiz||cmd_quiz
+jogar||cmd_quiz
+vestibular||cmd_quiz
+quero jogar||cmd_quiz
+quero me divertir||cmd_quiz
+me mostra um jogo||cmd_quiz
