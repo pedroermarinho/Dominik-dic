@@ -1,0 +1,10 @@
+﻿[
+    {
+        "text": "Olá! Bem-vindo. Meu nome é Dominik, sou uma assistente virtual. Aqui você pode ter as mais diversas interações, por exemplo, você pode utilizar as funções de pesquisa, basta utilizar a palavra “pesquisa” ou “quem é” antes do assunto a ser pesquisado. Ex.: QUEM É Jimi Hendrix? ou PESQUISE Jimi Hendrix. Você também pode saber as horas digitando “Que horas são?”, além de conversar comigo ou podendo ainda utilizar outras funções como “defina” (para saber mais escreva 'comandos')! Muito Prazer em conhecê-lo e obrigado por utilizar nossos serviços. Vamos começar a nos divertir!",
+        "type": "msg_start"
+    },
+    {
+        "text":"Estes sãos os nossos principais comandos até o presente momento:\n_Que horas são: Comando utilizado para saber a hora atual.\n_Qual a data de hoje: Comando utilizado para saber a data atual.\n_Piada: Comando utilizado para o bot contar uma piada.\n_Charada: Comando utilizado para o bot fazer uma charada.\n_Citações: Comando utilizado para o bot mencionar uma citação.\n_Curiosidades: Comando utilizado para o bot contar uma curiosidade qualquer.\n_Quem é: Comando utilizado para efetuar uma pesquisa acerca do texto digitado.\n_Pesquisa: Comando utilizado para efetuar uma pesquisa acerca do texto digitado. \n_Defina: Comando utilizado para efetuar uma pesquisa acerca do texto digitado.",
+        "type":"msg_cmd"
+        }
+]

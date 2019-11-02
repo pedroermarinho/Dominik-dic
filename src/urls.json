@@ -1,0 +1,80 @@
+[
+    {
+        "nome": "Charadas",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/Charadas.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "Citacao",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/Citacao.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "cmd",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/cmd.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "comandos",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/comandos.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "curiosidade",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/curiosidade.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "definicao",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/definicao.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "google",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/google.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "mensagens",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/mensagens.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "perguntas",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/perguntas.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "piadas",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/piadas.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "proverbio",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/proverbio.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "quiz",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/quiz.json",
+        "type": "json",
+        "category": ""
+    },
+    {
+        "nome": "",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/wikipedia.json",
+        "type": "json",
+        "category": ""
+    }
+]
