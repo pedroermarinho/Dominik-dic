@@ -3,13 +3,13 @@
         "nome": "Charadas",
         "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/Charadas.json",
         "type": "json",
-        "category": "ass"
+        "category": "entertainment"
     },
     {
         "nome": "Citacao",
         "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/Citacao.json",
         "type": "json",
-        "category": "ass"
+        "category": "entertainment"
     },
     {
         "nome": "cmd",
@@ -27,7 +27,7 @@
         "nome": "curiosidade",
         "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/curiosidade.json",
         "type": "json",
-        "category": "ass"
+        "category": "entertainment"
     },
     {
         "nome": "definicao",
@@ -51,19 +51,19 @@
         "nome": "perguntas",
         "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/perguntas.json",
         "type": "json",
-        "category": "ass"
+        "category": "entertainment"
     },
     {
         "nome": "piadas",
         "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/piadas.json",
         "type": "json",
-        "category": "ass"
+        "category": "entertainment"
     },
     {
         "nome": "proverbio",
         "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/proverbio.json",
         "type": "json",
-        "category": "ass"
+        "category": "entertainment"
     },
     {
         "nome": "quiz",
