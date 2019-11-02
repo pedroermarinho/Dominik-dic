@@ -23,13 +23,13 @@ layout: default
     for (let i = 0; i < links.length; i++) {
         const link = links[i]
         if (list_type.indexOf(`${link.type}`)===-1){
-            const type = `<h3>${link.type}</h4><ul id="${link.type}"></ul>`
+            const type = `<h2>${link.type}</h2><ul id="${link.type}"></ul>`
             $list.append(type)
             list_type.push(`${link.type}`)
         }
         const $type_list = $(`#${link.type}`)
         if (list_category.indexOf(`${link.category}`)===-1){
-            const category = `<h4>${link.category}</h4><ul id="${link.category}"></ul>`
+            const category = `<h3>${link.category}</h3><ul id="${link.category}"></ul>`
             $type_list.append(category)
             list_category.push(`${link.category}`)
         }
