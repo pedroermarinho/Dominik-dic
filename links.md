@@ -2,30 +2,30 @@
 layout: default
 ---
 
-<script src="/assets/jquery/jquery.min.js'"></script>
+<script src="assets/jquery/jquery.min.js"></script>
 
 ## Links
 
 ### Comandos
 
-<div id="my-list">
-
-</div>
-
+<ul id="link-list"></ul>
 <script>
-const $list = $('#my-list')
-const links = url("https://pedroermarinho.github.io/Dominik-dic/src/urls.json")
-
-for (let i = 0; i < ids.length; i++) {
-  const link  = links[i].url
-  const html = `<li>${link}</li>`
-  
-//   console.log('ID atual:', id, ' | HTML atual:', html)
-  
-  // Agora, ao invés de redefinir o HTML após cada iteração, estamos simplesmente
-  // acrescentando o HTML gerado ao conteúdo, já existente, da lista:
-  $list.append(html)
-}
+    const $list = $('#link-list')
+    var requestURL = 'https://pedroermarinho.github.io/Dominik-dic/src/urls.json';
+    var request = new XMLHttpRequest();
+    request.open('GET', requestURL);
+    request.responseType = 'json';
+    request.send();
+    request.onload = function() {
+    var links = request.response;
+    console.log(links)
+    for (let i = 0; i < links.length; i++) {
+        const link = links[i]
+        const html = `<li><a href="${link.url}">${link.nome}</a></li>`
+        console.log('ID atual:', link.nome, ' | HTML atual:', html)
+        $list.append(html)
+        }
+    }
 </script>
 
 ### Dicionários
