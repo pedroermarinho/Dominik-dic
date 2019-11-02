@@ -1,79 +1,79 @@
 [
     {
         "nome": "Charadas",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/Charadas.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/Charadas.json",
         "type": "json",
         "category": "ass"
     },
     {
         "nome": "Citacao",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/Citacao.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/Citacao.json",
         "type": "json",
         "category": "ass"
     },
     {
         "nome": "cmd",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/cmd.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/cmd.json",
         "type": "json",
         "category": "cmds"
     },
     {
         "nome": "comandos",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/comandos.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/comandos.json",
         "type": "json",
         "category": "cmds"
     },
     {
         "nome": "curiosidade",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/curiosidade.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/curiosidade.json",
         "type": "json",
         "category": "ass"
     },
     {
         "nome": "definicao",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/definicao.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/definicao.json",
         "type": "json",
         "category": "pesq"
     },
     {
         "nome": "google",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/google.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/google.json",
         "type": "json",
         "category": "pesq"
     },
     {
         "nome": "mensagens",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/mensagens.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/mensagens.json",
         "type": "json",
         "category": "msg"
     },
     {
         "nome": "perguntas",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/perguntas.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/perguntas.json",
         "type": "json",
         "category": "ass"
     },
     {
         "nome": "piadas",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/piadas.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/piadas.json",
         "type": "json",
         "category": "ass"
     },
     {
         "nome": "proverbio",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/proverbio.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/proverbio.json",
         "type": "json",
         "category": "ass"
     },
     {
         "nome": "quiz",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/quiz.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/quiz.json",
         "type": "json",
         "category": "quiz"
     },
     {
         "nome": "wikipedia",
-        "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/wikipedia.json",
+        "url": "https://pedroermarinho.github.io/Dominik-dic/api/json/wikipedia.json",
         "type": "json",
         "category": "pesq"
     }
