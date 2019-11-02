@@ -1,0 +1,184 @@
+﻿[
+{
+    "question":"O Red Hat é uma distribuição do sistema operacional:",
+    "response_1":"AIX",
+    "response_2":"Linux",
+    "response_3":"Solaris",
+    "response_4":"Novell",
+    "response_5":"Microsoft",
+    "correct":2, 
+    "type": "quiz",
+    "category":"Linux"
+
+},
+{
+    "question":"No Linux, uma forma simples de colocar um processo, inicializado pela linha de comando, para rodar em segundo plano consiste em acrescentar, ao final da linha que contém o comando, o caracter:",
+    "response_1":"!",
+    "response_2":">",
+    "response_3":"#",
+    "response_4":"&",
+    "response_5":"@",
+    "correct":5, 
+    "type": "quiz",
+    "category":"Linux"
+
+},
+{
+    "question":"Qual a opção que apresenta um comando do Linux que permite finalizar processos em execução?",
+    "response_1":"at",
+    "response_2":"cron",
+    "response_3":"grep",
+    "response_4":"kill",
+    "response_5":"ps",
+    "correct":4, 
+    "type": "quiz",
+    "category":"Linux"
+},
+{
+    "question":"No Linux para conectar uma seqüência de comandos, de forma que a saída de um seja a entrada de outro, podemos utilizar entre os comandos o caracter:",
+    "response_1":"|",
+    "response_2":"$",
+    "response_3":"#",
+    "response_4":"&",
+    "response_5":"@",
+    "correct":1, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+{
+    "question":"Assinale a opção que apresenta uma associação INCORRETA entre um comando ou utilitário Linux e uma função que pode ser executada com este comando ou utilitário.",
+    "response_1":"df listar o espaço de disco usado e disponível",
+    "response_2":"mkdir criar um diretório",
+    "response_3":"more visualizar na tela um arquivo texto",
+    "response_4":"nice  criar links simbólicos entre arquivos",
+    "response_5":"ps listar os processos em execução no sistema",
+    "correct":4, 
+    "type": "quiz",
+    "category":"Linux"
+},
+{
+    "question":"Um utilitário do sistema operacional Linux utilizado para fazer backup de arquivos é:",
+    "response_1":"elm",
+    "response_2":"kill",
+    "response_3":"lpq",
+    "response_4":"rcp",
+    "response_5":"tar",
+    "correct":5, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+{
+    "question":"No sistema operacional Linux o comando ps:",
+    "response_1":"lista os processos em execução no sistema",
+    "response_2":"monta uma unidade de disco",
+    "response_3":"informa em qual diretório o usuário está",
+    "response_4":"verifica o status da impressora LPT1",
+    "response_5":"carrega um editor de texto simples",
+    "correct":1, 
+    "type": "quiz",
+    "category":"Linux"
+     
+},
+{
+    "question":"O diretório do sistema operacional Linux que contém os arquivos de dispositivos que são usados para acessar os diferentes tipos de hardware do sistema é:",
+    "response_1":"/bin",
+    "response_2":"/dev",
+    "response_3":"/etc",
+    "response_4":"/mnt",
+    "response_5":"/var",
+    "correct":2, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+{
+    "question":"Assinale a opção que apresenta uma associação INCORRETA entre um comando ou utilitário Linux e uma função que pode ser executada com este comando ou utilitário.",
+    "response_1":"at  alterar permissão de arquivos",
+    "response_2":"history  exibir lista de comandos executados",
+    "response_3":"man obter ajuda online para comandos do Linux",
+    "response_4":"ping  enviar uma solicitação de eco ICMP através da rede.",
+    "response_5":"su  mudar a ID para outro usuário",
+    "correct":1, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+{
+    "question":"Os links simbólicos do sistema Linux e os atalhos do sistema Windows podem ser utilizados para:",
+    "response_1":"acessar um mesmo recurso através de caminhos diferentes",
+    "response_2":"adicionar ou remover hardware com segurança",
+    "response_3":"iniciar a execução de um documento no prompt do MS-DOS",
+    "response_4":"criar teclas de atalho personalizadas",
+    "response_5":"criar uma partição compartilhada para os dois sistemas (Linux e Windows)",
+    "correct":1, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+{
+    "question":"No UNIX, quando se deseja listar o nome da conta associado ao login atual, pode-se utilizar o comando:",
+    "response_1":"config",
+    "response_2":"login",
+    "response_3":"last login",
+    "response_4":"whoami",
+    "response_5":"vi",
+    "correct":4, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+
+{
+    "question":"Os drivers de dispositivos são componentes muito importantes em um computador. No UNIX, os drivers de dispositivos são armazenados como arquivos no diretório padrão:",
+    "response_1":"usr",
+    "response_2":"bin",
+    "response_3":"etc",
+    "response_4":"lib",
+    "response_5":"dev",
+    "correct":5, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+
+{
+    "question":"Uma das afirmativas NÃO diz respeito ao sistema operacional Linux:",
+    "response_1":"É derivado do Unix, modernizado e adaptado para microcomputadores",
+    "response_2":"Utiliza um sistema de arquivos próprio",
+    "response_3":"Utiliza o sistema de arquivos FAT32",
+    "response_4":"Pode ser instalado em um sistema já formatado com FAT32",
+    "response_5":"Seu programa de instalação fará mudanças nas partições do disco rígido",
+    "correct":3, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+
+{
+    "question":"A placa de vídeo e o monitor são configurados durante a instalação do Linux, porém, estas configurações podem ser alteradas posteriormente, por exemplo, com o utilitário:",
+    "response_1":"lilo",
+    "response_2":"grub",
+    "response_3":"Xconfigurator",
+    "response_4":"linuxconf",
+    "response_5":"setconfig",
+    "correct":3, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+{
+    "question":"O tribunal em que André trabalha tem uma rede Linux tradicional. André necessita obter as configurações da placa de rede de determinado computador. O comando que deve ser usado para este fim é:",
+    "response_1":"ping",
+    "response_2":"ipconfig",
+    "response_3":"ifconfig",
+    "response_4":"neststat",
+    "response_5":"nbtstat",
+    "correct":3, 
+    "type": "quiz",
+    "category":"Linux" 
+},
+{
+    "question":"A inicialização do sistema Linux, usando interface gráfica, é realizada com o gerenciador de boot",
+    "response_1":"Grub",
+    "response_2":"Grep",
+    "response_3":"Lillo",
+    "response_4":"Editor",
+    "response_5":"Daemon",
+    "correct":1, 
+    "type": "quiz",
+    "category":"Linux" 
+}
+]

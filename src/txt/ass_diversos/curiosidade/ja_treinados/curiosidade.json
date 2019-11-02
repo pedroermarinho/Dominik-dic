@@ -1,0 +1,861 @@
+[
+    {
+        "text": "No universo existem mais estrelas do que grãos de areia na terra.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A cada minuto, cerca de 72 horas de conteúdo são enviadas ao site de vídeos Youtube.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Estima-se que, a cada ano, o monte Everest cresça 4 milímetros.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A barragem da maior usina hidrelétrica do mundo, a Usina das Três Gargantas, localizada na China, prolongaria a duração do dia em 0,66 microssegundos se operasse em sua capacidade máxima. Isso ocorreria em virtude da enorme massa de água que ela comporta.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Em virtude da enorme massa de água represada, a Usina das Três Gargantas tem capacidade de alterar o movimento de rotação da Terra.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Durante o fenômeno Superlua, calcula-se que o diâmetro lunar possa aumentar em até 14%.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Há uma lâmpada que permanece ligada continuamente há mais de 113 anos na cidade de Livermore, na Califórnia.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O cérebro humano é formado por, aproximadamente, 75% de água.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O cachorro-quente é uma invenção alemã do século XV.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Alguns animais, como os cangurus, não param de crescer mesmo atingindo a idade adulta.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A maioria das vacas não consegue descer escadas.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Em média, um adulto respira 550 litros de oxigênio puro diariamente.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Estima-se que 4% da população mundial seja canhota.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A maior palavra da língua portuguesa refere-se a uma doença causada pela respiração de cinzas vulcânicas: pneumoultramicroscopicossilicovulcanoconiótico.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Sequoias são árvores que podem atingir 115 metros de altura, 12 metros de diâmetro e cerca de 1400 toneladas, vivendo mais de 4500 anos de idade.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O Brasil é o país que possui a maior comunidade japonesa fora do Japão. Só em São Paulo, moram mais de 600 mil japoneses.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O calendário da Etiópia é sete anos atrasado em relação aos demais países do ocidente.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A avenida mais larga do mundo, com 14 faixas diferentes, fica na Argentina.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A Avenida 9 de Julho, a maior do mundo, fica na Argentina.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Mais de 10% de toda a biodiversidade do mundo é encontrada no continente australiano.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A Rússia é o maior país do mundo, ocupando cerca de 10% de toda a terra do planeta.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Na Holanda, estima-se que o número de bicicletas ultrapasse três vezes o número de veículos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O menor país do mundo é o Vaticano, com cerca de 800 habitantes oficiais.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O Sol converte cerca de 600 milhões de toneladas de hidrogênio em hélio a cada segundo em virtude do processo de fusão nuclear.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Um volume do tamanho da cabeça de um alfinete feito do material de uma estrela de nêutrons teria uma massa de 1 milhão de toneladas.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A parte mais profunda do oceano chega a 11 mil metros.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O esqueleto humano é formado por 206 ossos, no entanto, os bebês nascem com cerca de 270 ossos, que se fundem em ossos maiores.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A Terra orbita o Sol a uma velocidade de, aproximadamente, 107 mil km/h.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O corpo humano tem mais de 96 mil km de vasos sanguíneos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Estima-se que o Universo conte com mais de 10 bilhões de galáxias.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A luz do Sol leva cerca de 8 minutos e 20 segundos para chegar à Terra.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O dia tem, aproximadamente, 23 horas e 56 minutos, não 24 horas. Por isso, a cada quatro anos, adicionamos um dia ao mês de fevereiro. Esses anos são chamados de bissextos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O recorde de voo de uma galinha é de 13 segundos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Os mosquitos são os animais mais letais do mundo, causando mais mortes humanas do que todas as guerras da história. Esses seres vivos matam cerca de 725 mil humanos anualmente.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Uma pulga pode saltar até 350 vezes sua altura.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "As formigas são capazes de levantar até 50 vezes seu próprio peso.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "As formigas podem levantar objetos várias vezes mais pesados que seus corpos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Todos os mamíferos são capazes de saltar, menos os elefantes.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Girafas não têm cordas vocais.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A língua de uma baleia-azul pode pesar até 3,6 toneladas, o equivalente ao peso de um elefante médio.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "As borboletas têm cerca de 12 mil olhos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Os vertebrados mais longevos do mundo são os tubarões da Groenlândia, que podem viver cerca de 400 anos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Existem algumas árvores vivas espalhadas pelo mundo que têm, pelo menos, 5000 anos de idade.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Os ursos-polares são, praticamente, invisíveis pelas câmeras de calor em virtude da eficiente camada de gordura isolante que os protege do frio.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O nome oficial do Brasil é República Federativa do Brasil.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A palavra “brasil” significa “vermelho como brasa”.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O Brasil é o quinto maior país do mundo.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O Brasil é o maior produtor de café do mundo.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O Brasil é também o país que mais desmata a natureza em todo o mundo.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "O Brasil tem a maior biodiversidade do mundo graças à Floresta Amazônica.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Das 30 cidades mais violentas do mundo, 12 estão localizadas no Brasil.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Toda moeda circulante e oficial do Brasil é produzida na Casa da Moeda, no Rio de Janeiro.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Tocantins é o estado mais novo do Brasil, fundado em 1988.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A feijoada é considerada o prato nacional do Brasil.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Existem mais formas de vida habitando sua pele, do que humanos sobre a Terra.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Outra das curiosidades sobre a pele, é que em um ano, uma pessoa perde cerca de 4 quilos de pele morta!",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Charles Osborne foi um homem que soluçou durante 69 anos, sem parar. Tudo começou em 1922, e apenas parou quando ele tinha seus 97 anos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Todas as pessoas com olhos azuis tem um antepassado em comum: a primeira pessoa com essa tonalidade de olhos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Outra das curiosidades que envolvem os olhos, tangem a composição das lágrimas. Se você chora de emoção, ela é diferente de quando você chora por estar irritado ou apenas por bocejar.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Quanto você acha que um pênis é capaz de se curvar? Segundo estudos da Universidade de Stanford, realizados em 2002, o pênis é capaz de curvar na forma de um bumerangue quando está dentro do corpo de uma mulher, em determinadas posições.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Jonah Falcon é um homem de Nova York que, por muito tempo foi considerado o dono do maior pênis do mundo. Mede 34,29 centímetros! Que loucura!",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Enquanto isso, vale lembrar que o clitóris é a parte do corpo feminino com maiores terminações nervosas!",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Utilizar muitos produtos de limpeza vaginal ou sabonetes que não são neutros em PH, podem prejudicar a saúde da região.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Embora o cérebro seja o responsável por todos os processos de nosso corpo, o órgão em si não é capaz de sentir dor.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Outra das curiosidades do cérebro, é que embora seja um dos menores de nossos órgãos, utiliza cerca de  30% de todo o sangue bombeado por nosso coração",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A atividade cerebral é tão única quanto as impressões digitais, podendo agir de forma exclusiva em cada indivíduo.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Por incrível que pareça, grande parte dos ataques cardíacos ocorrem durante uma segunda-feira! Que medo!",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Os sintomas de um ataque cardíaco são diferentes para homens e mulheres.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "A decomposição humana começa apenas 4 minutos após a morte.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "As 3 famílias mais ricas do mundo possuem uma fortuna superior à soma das riquezas dos 48 países mais pobres do mundo.",
+        "category": "null",
+        "type": "curiosity"
+    },
+    {
+        "text": "Até 2011, a cerveja era classificada como um refrigerante na Rússia. Já pensou se a moda pega?",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Os homens possuem 6 vezes mais chances de serem atingidos por relâmpagos, visto que tendem a ignorar sinais de perigo com mais frequência que as mulheres.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Há mais casas vazias nos Estados Unidos, do que pessoas sem casa.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "É mais provável que você morra depois de um coco atingir sua cabeça, do que atacado por um tubarão.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "EUA, Birmânia e Libéria foram os únicos países a não tomar o sistema métrico como padrão para medidas.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Aproximadamente 2.500 pessoas canhotas morrem por ano, na tentativa de utilizar equipamentos e ferramentos para pessoas destras.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No ano de 2006, um homem da Austrália tentou vender toda a Nova Zelândia pelo eBay.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Fredric John Baur foi o responsável pela invenção das batatas Pringles. No ano de 2008, quando morreu, suas cinzas foram armazenadas em uma embalagem dessas batatas.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "É proibido vender uma casa assombrada em Nova York, sem avisar o comprador.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O primeiro celular do mundo custava 3.995 dólares!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No Japão existem sorvetes sabor enguia. Teria coragem?",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Cerca de dois terços dos habitantes da Terra nunca viram neve na vida. Você é um deles?",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O único planeta de nosso Sistema Solar que não tem nome de um deus, é o nosso.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No topo do famoso Monte Everest, há uma cobertura móvel.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Um Boeing 747 gastaria em média,120 bilhões de anos para completar uma volta pela Via Láctea.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Devido as duras condições do Monte Everest, existem cerca de 200 cadáveres de escaladores que nunca puderam ser retirados do local. São usados na verdade, como ponto de referência para novos aventureiros...",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Em julho de 2011, uma série de meteoritos de Marte acabou caindo no deserto de Marrocos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "A rotação da Terra diminui de forma gradativa.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "De acordo com os cientistas, se você fosse capaz de cavar um túnel através da Terra e resolvesse pular dentro, levaria exatos 42 minutos e 12 segundos para chegar ao fim.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O Planeta Terra é o mais denso de todos. Depende apenas da parte que for comparada a outro planeta.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "É provável que a Terra possua 4,54 bilhões de anos!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No ano de 1033, foi registrada a impressionante temperatura de 136ºC em uma região da Líbia.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Alguns pesquisadores acreditam que a Terra tinha duas luas e que a segunda teria colidido com a que conhecemos hoje, e acabou sendo destruída.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O thaumoctopus mimicus é um polvo capaz de mudar sua cor e imitar a de outros seres marinhos. São conhecidas 15 cores diferentes que ele pode imitar. Impressionante!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O peso de um beija-flor pode ser menor que o de um centavo americano.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Se um leão macho acaba  se tornando líder do grupo, executa todos os filhotes do líder anterior.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Girafas podem limpar suas orelhas usando suas enormes línguas que podem chegar aos 50 centímetros!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O corpo de uma água-viva é composto em 95% de água.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Cães de pradaria se cumprimentam com beijos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "As vacas são capazes de definir suas melhores amigas e sofrem com sua perda.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "A pele de uma rã venenosa dourada, possui toxinas suficientes para matar 100 pessoas!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Ao contrário do que diz o ditado popular, a cor vermelha não atiça os touros.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Cangurus não conseguem dar saltos para trás.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Os únicos mamíferos capazes de voar são os morcegos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Os humanos e coalas possuem as impressões digitais bem parecidas.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Uma formiga pode carregar até 60 vezes seu próprio peso.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Uma cobra píton grande o suficiente, é capaz de engolir uma cabra inteira, ou coisas piores...",
+        "category": "null",
+        "type": "curiosity"
+    },
+    
+{
+        "text": "10% dos ossos de um gato estão presentes em sua cauda.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Um crocodilo do Nilo pode prender a respiração por até 2 horas, na espreita por uma presa.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Águas-vivas não possuem cérebro, coração e nem ossos. Para se orientar, abusam dos sensores nervosos presentes em seus tentáculos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Os únicos mamíferos com menopausa, são as fêmeas de elefante, baleias jubarte e as mulheres humanas.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O cheiro de um humano pode ser detectado por cães a mais de 1 quilômetro de distância.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Como forma preventiva, alguns patos podem dormir com um olho aberto e outro fechado.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Curiosidades que envolvem a história",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "A CIA tentou espionar a embaixada russa e o Kremlin na década de 1960. Usaram gatos como ferramenta de escuta, implantando microfones nos animais.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Os mamutes lanosos ainda existiam no período de construção das grandes pirâmides do Egito.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Os biscoitos da sorte não foram inventados na China, mas sim nos Estados Unidos, em 1918.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Há 600 anos, o francês ou a Anglo-Normandia eram as línguas oficiais da Inglaterra.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Condenado pelo assassinato de uma criança, um porco foi submetido à forca em público, no ano de 1386.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "A bandeira americana com 56 estrelas, foi projetada por um aluno de Ohio, que tinha apenas 17 anos. A professora ainda deu nota baixa para o trabalho.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No ano de 1493, Cristóvão Colombo achou ter visto sereias. No entanto, acredita-se que o que ele realmente viu, foram peixes-boi.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Uma pesquisa em busca do Monstro do Lago Ness, não mostrou nenhum indício de existência da criatura.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Segundo uma lenda alemã da Idade Média, se alguém sofresse de dor de dente, a solução para o problema seria beijar um burro.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Durante as guerras napoleônicas, um macaco foi executado acusado de ser espião.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Reza a lenda de que a primeira pizza do mundo foi entregue me 1889, à Rainha da Itália, Margarita Savoy.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O nome de Adão (personagem bíblico) vem de uma palavra hebraica que tem como significado 'a terra' ou 'o solo'.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Jonnas Salk não quis patentar sua vacina contra a poliomelite, pois disse que ela deveria pertencer a todos.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Fomos enganados! O morango possui mais vitamina C do que a laranja!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Venetia Katharine Douglas Phair, foi a primeira a sugerir o nome 'Plutão' para o corpo celeste. Tinha só 11 anos...",
+        "category": "null",
+        "type": "curiosity"
+    },
+   
+{
+        "text": "4 asteroides se chamam 'Beatles'.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Em Netuno, os ventos atingem 2 mil quilômetros por hora!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "A palavra 'astronauta' se origina das palavras gregas astron, que quer dizer estrela, e nautes, que quer dizer marinheiro.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Até 1960, o teste de gravidez consistia em injetar a urina da mulher em um sapo africano. Se ele ovulasse dentro de 12 horas no máximo, o resultado era positivo.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "A Terra possui um campo magnético extremamente poderoso, nos protegendo de ventos solares.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Um aperto de mão transmite mais germes do que um beijo!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Apenas por curiosidade: 111.111.111 × 111.111.111 = 12.345.678.987.654.321.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Em uma sala com 23 pessoas, existem chances de 50% de duas delas possuírem a mesma data de aniversário.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O sal dos oceanos seria suficiente para cobrir com uma camada de 152 metros, todos os continentes.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "A palavra 'cientista' foi usada pela primeira vez em 1833. Até lá eram chamados apenas de filósofos ou 'homens da ciência'.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Cientistas concluíram que a galinha veio sim antes do ovo.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O ator inicial ao interpreta Dumbledore, recusaria o papel. No entanto, foi 'obrigado' a aceitar, pois sua neta era uma grande fã de Harry Potter.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No ano de 2011, a Forbes estimou que, caso a fortuna do Tio Patinhas fosse real, equivaleria aos 44,1 bilhões de dólares.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Para conseguir os efeitos sonoros do assassinato no chuveiro, no filme psicose, alguém precisou dar vários murros em um melão verde...",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O ator que ficava dentro do R2-D2 nos filmes de Star Wars, simplesmente detestava o ator responsável pelo C-3PO. Afirmava que era o homem mais grosso que já havia visto.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "O Mestre Yoda, de Star Wars, foi projetado para se parecer com Albert Einstein.",
+        "category": "Star Wars",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No filme 'Django Desencadenado', há uma cena em que DiCaprio, em ataque de raiva, quebra um copo e corta a mão, fazendo com que o sangue jorre. Acredite, aquela cena é real. Aconteceu por acidente mas Tarantino resolveu manter no filme.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No filme 'Resacón en Las Vegas', o personagem dentista, interpretado por Ed Helms, teve realmente um buraco em seu dente.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No filme 'Alien', se lembra de quando somos apresentados ao primeiro baú aberto por um pequeno xenomorfo? Até os atores ficaram assustados, e suas expressões são reais, visto que não sabiam que aquilo aconteceria.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "No filme 'O Resgate do Soldado Ryan', os atores precisaram passar por treinamento.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Psycho foi o primeiro filme a apresentar um banheiro em que uma correte é puxada.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Supostamente, o cachorro de 'O Mágico de Oz' ganhou um salário bem maior que os outros atores.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Na franquia de Harry Potter, o único além de JK Rowling que sabia que Snape estava na verdade, defendendo o pequeno bruxo motivado pelo amor de Lily, era Alan Rickman. Que por sinal, foi o ator que interpretou Snape.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Embora a frase 'jogue novamente, Sam', seja considerada a mais típica do filme Casablanca,  ela nunca foi dita na produção.",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Embora Sean Connery interprete o pai de Harrison Ford (Indie), em Indiana Jones, ele é apenas 12 anos mais velho!",
+        "category": "null",
+        "type": "curiosity"
+    },
+
+{
+        "text": "Em uma das cenas de 'Princess for Surprise', a atriz Anne Hathaway cai por acidente, enquanto sobe alguns degraus. No entanto, o diretor decidiu manter a queda no filme.",
+        "category": "null",
+        "type": "curiosity"
+    }
+]

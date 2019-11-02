@@ -1,0 +1,362 @@
+﻿[
+    {
+        "text": "QUE HORAS SÃO",
+        "cmd": "cmd_hora",
+        "type":"cmd"
+    },
+    {
+        "text": "Me Diga As Horas",
+        "cmd": "cmd_hora",
+        "type":"cmd"
+    },
+    {
+        "text": "horas",
+        "cmd": "cmd_hora",
+        "type":"cmd"
+    },
+    {
+        "text": "hora",
+        "cmd": "cmd_hora",
+        "type":"cmd"
+    },
+    {
+        "text": "QUAL É A DATA DE HOJE",
+        "cmd": "cmd_data",
+        "type":"cmd"
+    },
+    {
+        "text": "DATA DE HOJE",
+        "cmd": "cmd_data",
+        "type":"cmd"
+    },
+    {
+        "text": "Me diga qual e a data de hoje",
+        "cmd": "cmd_data",
+        "type":"cmd"
+    },
+    {
+        "text": "data",
+        "cmd": "cmd_data",
+        "type":"cmd"
+    },
+    {
+        "text": "Dia da semana",
+        "cmd": "cmd_semana",
+        "type":"cmd"
+    },
+    {
+        "text": "semana",
+        "cmd": "cmd_semana",
+        "type":"cmd"
+    },
+    {
+        "text": "COMANDOS",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "COMANDO",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "funções",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "função",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "O que você sabe fazer?",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "O que você pode fazer?",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "Oq vc sabe fazer ?",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "me mostre o que você pode fazer",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "me mostre o que você sabe fazer",
+        "cmd": "cmd_lista_comandos",
+        "type":"cmd"
+    },
+    {
+        "text": "Treinar_123",
+        "cmd": "cmd_treinar",
+        "type":"cmd"
+    },
+    {
+        "text": "PIADA",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "PIADAS",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "Quero mais piadas",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "mais piadas",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "me fala uma piada",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "Me conte uma piada",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "Conte-me uma piada",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "Fala uma piada",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "me Fala uma piada",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "/piadas",
+        "cmd": "cmd_piadas",
+        "type":"cmd"
+    },
+    {
+        "text": "START",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "/start",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "Charada",
+        "cmd": "cmd_Charadas",
+        "type":"cmd"
+    },
+    {
+        "text": "Me fale uma Charada",
+        "cmd": "cmd_Charadas",
+        "type":"cmd"
+    },
+    {
+        "text": "Bot, diga uma Charada",
+        "cmd": "cmd_Charadas",
+        "type":"cmd"
+    },
+    {
+        "text": "Dominik, diga uma Charada",
+        "cmd": "cmd_Charadas",
+        "type":"cmd"
+    },
+    {
+        "text": "mais Charada",
+        "cmd": "cmd_Charadas",
+        "type":"cmd"
+    },
+    {
+        "text": "quero mais Charada",
+        "cmd": "cmd_Charadas",
+        "type":"cmd"
+    },
+    {
+        "text": "citações",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "citação",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "Bot, diga uma frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "Dominik, diga uma frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "diga uma frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "me diga uma frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "Outra frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "eu queria uma frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "eu quero uma frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "Mais uma frase",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "Quero mais frases",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "frases",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "mais frases",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "mais citações",
+        "cmd": "cmd_citacoes",
+        "type":"cmd"
+    },
+    {
+        "text": "curiosidades",
+        "cmd": "cmd_curiosidades",
+        "type":"cmd"
+    },
+    {
+        "text": "curiosidade",
+        "cmd": "cmd_curiosidades",
+        "type":"cmd"
+    },
+    {
+        "text": "mais curiosidade",
+        "cmd": "cmd_curiosidades",
+        "type":"cmd"
+    },
+    {
+        "text": "Quero mais curiosidades",
+        "cmd": "cmd_curiosidades",
+        "type":"cmd"
+    },
+    {
+        "text": "Me fale uma curiosidade",
+        "cmd": "cmd_curiosidades",
+        "type":"cmd"
+    },
+    {
+        "text": "Fala uma curiosidade",
+        "cmd": "cmd_curiosidades",
+        "type":"cmd"
+    },
+    {
+        "text": "Me fale sobre você?",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "Me fale sobre vc?",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "Quem é vc?",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "Quem é você?",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "Conte me um pouco sobre você",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "Conte-me um pouco sobre você",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "Me Conte sobre você",
+        "cmd": "/start",
+        "type":"cmd"
+    },
+    {
+        "text": "provérbio",
+        "cmd": "cmd_proverbio",
+        "type":"cmd"
+    },
+    {
+        "text": "quiz",
+        "cmd": "cmd_quiz",
+        "type":"cmd"
+    },
+    {
+        "text": "jogar",
+        "cmd": "cmd_quiz",
+        "type":"cmd"
+    },
+    {
+        "text": "vestibular",
+        "cmd": "cmd_quiz",
+        "type":"cmd"
+    },
+    {
+        "text": "quero jogar",
+        "cmd": "cmd_quiz",
+        "type":"cmd"
+    },
+    {
+        "text": "quero me divertir",
+        "cmd": "cmd_quiz",
+        "type":"cmd"
+    },
+    {
+        "text": "me mostra um jogo",
+        "cmd": "cmd_quiz",
+        "type":"cmd"
+    }
+]

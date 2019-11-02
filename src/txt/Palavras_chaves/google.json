@@ -1,0 +1,50 @@
+[
+    {
+        "text": "pesquisar por",
+        "type": "pesq_google"
+    },
+    {
+        "text": "Pesquisar por",
+        "type": "pesq_google"
+    },
+    {
+        "text": "pesquise por",
+        "type": "pesq_google"
+    },
+    {
+        "text": "Pesquise por",
+        "type": "pesq_google"
+    },
+    {
+        "text": "pesquisar",
+        "type": "pesq_google"
+    },
+    {
+        "text": "Pesquisar",
+        "type": "pesq_google"
+    },
+    {
+        "text": "Pesquisa",
+        "type": "pesq_google"
+    },
+    {
+        "text": "Pesquise",
+        "type": "pesq_google"
+    },
+    {
+        "text": "pesquise",
+        "type": "pesq_google"
+    },
+    {
+        "text": "Pesquisa pra mim",
+        "type": "pesq_google"
+    },
+    {
+        "text": "pesquisa pra mim",
+        "type": "pesq_google"
+    },
+    {
+        "text": "/pesquisar",
+        "type": "pesq_google"
+    }
+]

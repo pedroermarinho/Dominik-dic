@@ -1,0 +1,58 @@
+[
+    {
+        "cmd": "cmd_data",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_hora",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_semana",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_conexao_arduino",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_ascender_luz",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_apagar_luz",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_nomes_dos_criadores",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_tempos_escolares",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_pesquisa_no_google",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_lista_comandos",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_piadas",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_Charadas",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_citacoes",
+        "type": "cmd_list"
+    },
+    {
+        "cmd": "cmd_curiosidades",
+        "type": "cmd_list"
+    }
+]
