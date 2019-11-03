@@ -4,4 +4,4 @@ layout: default
 
 
 
-[Dicionarios e Comandos](./links.md)
+[Dicionários e Comandos](./links.md)
