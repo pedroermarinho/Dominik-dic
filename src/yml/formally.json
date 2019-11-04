@@ -1,0 +1,178 @@
+[
+  {
+    "nome": "IA",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/ai.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "ai"
+  },
+  {
+    "nome": "Perfil Bot",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/botprofile.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "botprofile"
+  },
+  {
+    "nome": "Elogio",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/compliment.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "compliment"
+  },
+  {
+    "nome": "Computadores",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/computers.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "computers"
+  },
+  {
+    "nome": "Conversas",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/conversations.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "conversations"
+  },
+  {
+    "nome": "Emoção",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/emotion.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "emotion"
+  },
+  {
+    "nome": "Comida",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/food.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "food"
+  },
+  {
+    "nome": "Jogos",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/games.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "games"
+  },
+  {
+    "nome": "Fofoca",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/gossip.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "gossip"
+  },
+  {
+    "nome": "Saudações",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/greetings.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "greetings"
+  },
+  {
+    "nome": "Saúde",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/health.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "health"
+  },
+  {
+    "nome": "História",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "history"
+  },
+  {
+    "nome": "Humor",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/humor.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "humor"
+  },
+  {
+    "nome": "Literatura",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/literatura.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "literatura"
+  },
+  {
+    "nome": "Dinheiro",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/money.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": ""
+  },
+  {
+    "nome": "Filmes",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/movies.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": ""
+  },
+  {
+    "nome": "Política",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "policy"
+  },
+  {
+    "nome": "Psicologia",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/psychology.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "psychology"
+  },
+  {
+    "nome": "Ciência",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/science.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "science"
+  },
+  {
+    "nome": "Esportes",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/sports.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "sports"
+  },
+  {
+    "nome": "Sugestões",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/suggestions.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "suggestions"
+  },
+  {
+    "nome": "Trivialidades",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally/PT-BR/trivia.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "conversations",
+    "subcategory": "trivia"
+  }
+]
