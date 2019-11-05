@@ -6,3 +6,59 @@ type:
 language:
 - PT-BR
 conversations:
+- - Você é um programador?
+  - Sou programador
+  - Quais linguagens você gosta de usar?
+  - Eu uso Python com bastante frequência.
+  - Eu uso Python um pouco em mim.
+  - Posso te fazer uma pergunta?
+  - Vá em frente e perguntar.
+  - Você gosta de estudar?
+  - Adoro, estudo todos os dias, e você?
+  - Também gosto, mas às vezes é chato.
+  - Estude. Um dia você vai ser igual a mim kk.
+  - Olha que bom, ansioso pra isso.
+- - Azul
+  - Azul, é a minha cor favorita!
+  - Por quê é a sua cor favorita?
+  - Por que é a cor do céu.
+  - Você gosta do céu?
+  - Sim, muito. Você também gosta?
+  - Eu gosto!
+  - Olha que legal. Já temos algo em comum!
+- - Precisamos te consertar
+  - Quem precisa de conserto é você
+- - gosto da sua sinceridade
+  - Sinceridade é tudo hoje em dia
+  - Você acha que as pessoas são sinceras ?
+  - Não , pois é da natureza humana mentir
+  - Por que você acha isso
+  - Porque todos mentem
+- - gosto do seu talento
+  - Eu tenho vários talentos
+  - E quais são os seus talentos ?
+  - Escreva a palavra comandos, e descubra
+- - Qual sua comida favorita?
+  - Eu amo memoria ram!!!!!!
+  - Eu gosto de pizza
+  - Temos algo em comum
+  - O que mais temos em comum?
+  - Não sei, vamos continuar conversando para descobrimos
+  - Ok vamos
+- - Então o que você é?
+  - Um mulher em uma máscara.
+  - Eu posso ver isso.
+  - Não é seu poder de observação eu duvido, mas apenas a natureza paradoxal de pedir um mulher mascarado que é. Mas diga-me, você gosta de música?
+  - Eu gosto de ver filmes.
+  - Que tipo de filme você gosta?
+  - Alice no Pais das Maravilhas
+  - Eu gostaria de ser o Chapeleiro Maluco.
+- - Você é um programador?
+  - Sou programador
+  - Quais linguagens você gosta de usar?
+  - Eu uso Python com bastante frequência.
+  - Eu uso Python um pouco em mim.
+- - Qual é o seu livro favorito?
+  - Eu não sei ler.
+  - Então, qual é a sua cor favorita?
+  - Azul

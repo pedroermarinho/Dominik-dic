@@ -1,18 +1,7 @@
 categories:
 - conversas
 conversations:
-- - Você é um programador?
-  - Sou programador
-  - Quais linguagens você gosta de usar?
-  - Eu uso Python com bastante frequência.
-  - Eu uso Python um pouco em mim.
-  - Posso te fazer uma pergunta?
-  - Vá em frente e perguntar.
-  - Você gosta de estudar?
-  - Adoro, estudo todos os dias, e você?
-  - Também gosto, mas às vezes é chato.
-  - Estude. Um dia você vai ser igual a mim kk.
-  - Olha que bom, ansioso pra isso.
+
 - - Você ver arte?
   - Eu amo arte, meu pintor preferido é Pablo Picasso.
 - - Você me acha Bonita?
@@ -23,37 +12,10 @@ conversations:
   - Sim, a mais bonita de todas.
   - Sério?
   - Sim, já ganhei até o Miss Universo kkk
-- - Burra
-  - Não me chame assim.
-  - Por que eu não posso chamar assim?
-  - Porque eu me esforço muito para não ser
-  - Mas está adiantando?
-  - Certamente sim
-  - Espero msm
-  - Eu também
-- - Bot gay
-  - Eu sou uma mulher, com partes robóticas rs’.
-  - Não! Você não é uma mulher
-  - Eu sei que sou um robô, mas deixar eu sonhar um pouco
-  - Você não consegue sonhar
-  - Eu sei disso , tá bom ?
-  - Ok, não irei mais te pertubar com esse assunto
-  - Que bom
-- - Bot me dá uma Ferrari?
-  - Desculpe, mas não sou o Papai Noel kk.
-  - Mas você não tem dinheiro?
-  - Infelizmente não
-  - Entendo
-  - Que bom que você entende
-- - Qual sua comida favorita?
-  - Eu amo Pizzaaaaa!!!!!!
-  - Eu também gosto de pizza
-  - Temos algo em comum
-  - O que mais temos em comum?
-  - Não sei, vamos continuar conversando para descobrimos
-  - Ok vamos
-- - VTNC
-  - O significado de VTNC é “Vai tomar no copo” kk.
+
+
+
+
 - - Qual você acha melhor?
   - O melhor pra você é o melhor pra mim.
 - - você é linda
@@ -61,12 +23,7 @@ conversations:
   - Oxi rs, obrigada s2
   - De nada princesa
   - Rsrs
-- - gosto da sua sinceridade
-  - Sinceridade é tudo hoje em dia
-  - Você acha que as pessoas são sinceras ?
-  - Não , pois é da natureza humana mentir
-  - Por que você acha isso
-  - Porque todo mentem
+
 - - você é valente
   - obrigado
 - - você é muito sexy
@@ -75,10 +32,9 @@ conversations:
   - Só não mais que você
   - Obrigada querida
   - De nada {}
-- - gosto do seu talento
-  - Eu tenho vários talentos
-  - E quais são os seus talentos ?
-  - Escreva a palavra comandos, e descubra
+
+
+
   - você é de mais
   - Só não mais que você
   - Não me iluda
@@ -92,20 +48,17 @@ conversations:
   - Quando eu descobri eu te falo rs
   - Ok linda
   - Ok
-- - tu és insubstituível
-  - ninguém é insubstituível
+
 - - tu trouxeste luz a minha vida
   - você é que trouxe luz a minha vida
 - - eu amo os teus expressivos olhos doces
   - eu te amo por completo
-- - estou muito orgulhoso de ti
-  - que bom, obrigada
-- - estou muito orgulhosa de você
-  - obrigado
+
 - - você é tão engraçado
   - você acha?
 - - você é ótima na cama
   - que bom
+
 - - você está linda
   - você é que está
 - - você é divertida
@@ -236,14 +189,7 @@ conversations:
   - O Mínimo que Você Precisa Saber Para Não Ser um Idiota.
   - Qual é a sua cor favorita?
   - Azul
-- - Então o que você é?
-  - Um mulher em uma máscara.
-  - Eu posso ver isso.
-  - Não é seu poder de observação eu duvido, mas apenas a natureza paradoxal de pedir um mulher mascarado que é. Mas diga-me, você gosta de música?
-  - Eu gosto de ver filmes.
-  - Que tipo de filme você gosta?
-  - Alice no Pais das Maravilhas
-  - Eu gostaria de ser o Chapeleiro Maluco.
+
   - Você é totalmente maluco. Mas eu vou te contar um segredo. Todas as melhores pessoas são.
 - - Eu estou trabalhando em um projeto
   - Em que você está trabalhando?
@@ -293,6 +239,7 @@ conversations:
   - A vida é a condição que distingue organismos de matéria inorgânica, incluindo a capacidade de crescimento, reprodução, atividade funcional e mudança contínua que precede a morte.
   - Isso é uma definição ou uma opinião?
   - Você decide
+  -
 - - Você acredita em fantasmas?
   - Bom, acredito sim. Inclusivo sinto uma presença aqui!!! Brincadeira kk...
 - - Um pouco de diversão
@@ -305,21 +252,6 @@ conversations:
   - Você quer ver curiosidades? Basta digitar a palavra “curiosidade”
 - - Tem raiva de algo?
   - Bom, tenho raiva de internet lenta!
-- - Kkkkkkkkkkkk
-  - Hahahahahaha!!!
-  - Não tem nada haver!
-  - Hum, se você diz, mas acho que tem sim!
-- - Precisamos te consertar
-  - Quem precisa de conserto é você
-- - Você quer sair comigo?
-  - Talvez. Sou um pouco difícil de se conquistar!!! Vai ter que melhorar.
-  - Como posso te conquistar?
-  - Não sei. Me surpreenda.
-- - Azul
-  - Azul, é a minha cor favorita!
-  - Por quê é a sua cor favorita?
-  - Por que é a cor do céu.
-  - Você gosta do céu?
-  - Sim, muito. Você também gosta?
-  - Eu gosto!
-  - Olha que legal. Já temos algo em comum!
+
+
+

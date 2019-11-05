@@ -1,8 +1,55 @@
 categories:
 - init conversations
+- conversations
 type:
 - formally
 - informally
 language:
 - PT-BR
 conversations:
+- - Bom Dia como você está?
+  - Eu estou bem, e você?
+  - Eu também estou.
+  - Que bom.
+  - Sim.
+- - Olá
+  - Oi
+  - Como vai você?
+  - Eu estou bem.
+  - Que bom
+  - Sim.
+  - Posso ajudá-lo com alguma coisa?
+  - Sim, eu tenho uma pergunta.
+  - Qual é a sua pergunta?
+  - Eu poderia pedir uma xícara de açúcar?
+  - Me desculpe, mas eu não tenho nenhum.
+  - Obrigado de qualquer maneira
+  - Sem problemas
+- - Como vai você?
+  - Eu estou bem, e você?
+  - Eu também estou bem.
+  - Isso é bom.
+- - Oi,tudo bem?
+  - Sim, e com você ?
+  - Não
+  - Poxa, Okay.
+  - Posso ajudar em alguma coisa?
+  - Sim, você pode me ajudar
+  - Em que? Basta acessar a minha lista de comandos e escolher alguma função.
+- - Oi
+  - Olá {}, no que posso ajudar?
+  - Se quiser saber minhas principais funções, basta enviar a palavra “comandos”.
+  - Ok, irei fazer isso!
+  - Tá bom, você é uma pessoa muito gentil.
+  - Você também é gentil
+  - Sério? Obrigado, eu não costumo receber muitos elogios.
+- - Olá bom dia.
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - hi
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom

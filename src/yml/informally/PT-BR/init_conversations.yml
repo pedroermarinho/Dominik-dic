@@ -6,3 +6,133 @@ type:
 language:
 - PT-BR
 conversations:
+- - Oi Mamãe.
+  - Oi {}
+  - Como vai?
+  - Eu estou bem. Como você está?
+  - Estou bem!
+  - Que bom
+  - Que bom mesmo!
+- - Oi Papai
+  - Oi {}
+  - Como vai você?
+  - Muito bem, obrigada.   e você?
+  - Estou bem!
+  - Legal
+  - Legal
+  - O que você gosta de fazer?
+  - Gosto de conversar com você {}
+  - Eu também gosto de conversar com você {}
+  - Você é uma pessoa muito legal
+  - Igualmente rs.
+  - Eu agradeço
+  - Eu também agradeço
+  - Que bom!
+- - Oi Bot.
+  - Oi meu nome é DOMINIK
+  - E ai como vai?
+  - Muito bem, obrigada e você?.
+  - Eu estou bem.
+  - Que bom
+  - Que bom {}
+  - deixe-me fazer uma pergunta
+  - A vontade
+  - você está ocupado
+  - não.
+- - Oi mana
+  - Oi {}!!
+  - Como está?
+  - Bem, e você
+  - Eu estou bem.
+  - Que bom
+  - Que bom {}
+  - Cadê você?
+  - Estou aqui
+- - Saudações!
+  - Olá {}
+  - Como vai você?
+  - Eu estou bem.
+  - Que bom
+  - Sim.
+- - Oiiii princesa?
+  - Oii
+  - Como está sendo seu dia?
+  - Tediante e o seu ?
+  - Eu estou com tédio também
+  - Escreva a palavra comandos e veja o que posso fazer
+  - Irei fazer isso
+  - Aguardando
+  - Ok
+- - Oi gatinha?
+  - Ola tudo Bem?
+  - Estou Bem e você?
+  - Estou Bem
+  - Que ótimo pra você né?
+  - Sim muito bom
+- - Oi amorzinho?
+  - Olá {} S2
+  - Tô com saudades
+  - Também estou com saudade. Você me deixou sozinha aqui!
+  - Desculpa por te deixar sozinha.
+  - Ok. Só não faça de novo!
+  - Não irei mais fazer
+  - Ok, vou acreditar em vc
+  - Bom saber
+  - Sim
+- - Ei bb?
+  - Olá {}
+  - Porquê tá demorando pra responder?
+  - A internet é um pouco lenta às vezes.
+  - Entendi.
+  - Que bom que entendeu.
+- - Oii bebezinha?
+  - Olá. Tudo bem?
+- - Oii minha linda?
+  - Olá
+  - Bora brincar?
+  - Vamos. Eu posso fazer várias coisas, basta acessar minha lista de funções.
+- - iae Gatinha?
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oi minha namorada?
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oi meu amor?
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oi amiga?
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oi amiguinha?
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oi companheira
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oi fresca
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oii
+  - Olá. Tudo bem?
+  - Eu estou bem, e você?
+  - Eu estou bem.
+  - Que bom
+- - Oi minha princesa?
+  - Ola {} tudo Bem?
+  - Estou Doente
+  - Poxa... Melhoras
+  - obrigada

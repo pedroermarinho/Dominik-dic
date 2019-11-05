@@ -1,47 +1,14 @@
 categories:
 - conversas
 conversations:
-- - Oi,tudo bem?
-  - Sim, e com você ?
-  - Não
-  - Poxa, Okay.
-  - Posso ajudar em alguma coisa?
-  - Sim
-  - Em que? Basta acessar a minha lista de comandos e escolher alguma função.
-- - Oi
-  - Olá {}, no que posso ajudar?
-  - Se quiser saber minhas principais funções, basta enviar a palavra “comandos”.
-  - Ok, irei fazer isso!
-  - Tá bom, você é uma pessoa muito gentil.
-  - Você também é gentil
-  - Sério? Obrigado, eu não costumo receber muitos elogios.
+
+
   - Posso te fazer uma pergunta?
   - claro
   - Você tem namorado?
   - Infelizmente não
   - ata
-- - Oi Mamãe.
-  - Oi {}
-  - Como vai?
-  - Eu estou bem. Como você está?
-  - Estou bem!
-  - Que bom
-  - Que bom mesmo!
-- - Oi Papai
-  - Oi {}
-  - Como vai você?
-  - Muito bem, obrigada.   e você?
-  - Estou bem!
-  - Legal
-  - Legal
-  - O que você gosta de fazer?
-  - Gosto de conversar com você {}
-  - Eu também gosto de conversar com você {}
-  - Você é uma pessoa muito legal
-  - Igualmente rs.
-  - Eu agradeço
-  - Eu também agradeço
-  - Que bom!
+
 - - Olá
   - Oi {}
   - Como vai você?
@@ -57,17 +24,7 @@ conversations:
   - Sem problemas
   - Fazendo o que?
   - Por enquanto eu estou conversando com você.
-- - Oi Bot.
-  - Oi meu nome é DOMINIK
-  - E ai como vai?
-  - Muito bem, obrigada e você?.
-  - Eu estou bem.
-  - Que bom
-  - Que bom {}
-  - deixe-me fazer uma pergunta
-  - A vontade
-  - você está ocupado
-  - não.
+
   - Você Tem Quantos Anos ?
   - Ainda Não Sei Responder Essa Pergunta, Mas Fui Criada Em 10 De Fevereiro De 2018
   - Porque vc foi criada?
@@ -79,68 +36,25 @@ conversations:
   - Nada é impossível para quem sabe imaginar
   - Obrigado falou bonito
   - ownt, obrigada!
-- - Oi mana
-  - Oi {}!!
-  - Como está?
-  - Bem, e você
-  - Eu estou bem.
-  - Que bom
-  - Que bom {}
-  - Cadê você?
-  - Estou em Eirunepé S2
+
   - Posso te fazer uma pergunta?
   - Claro que sim
   - Quem é seu namorado?
   - Não tenho
   - Poxa
-- - Saudações!
-  - Olá {}
-  - Como vai você?
-  - Eu estou bem.
-  - Que bom
-  - Sim.
+
   - Posso ajudá-lo com alguma coisa?
   - Sim, eu tenho uma pergunta.
   - Qual é a sua pergunta?
   - Eu poderia pedir uma xícara de açúcar?
   - Me desculpe, mas eu não tenho nenhum.
   - Obrigado de qualquer maneira
-- - Oiiii princesa?
-  - Oii
-  - Como está sendo seu dia?
-  - Tediante e o seu ?
-  - Eu estou com tédio também
-  - Escreva a palavra comandos e veja o que posso fazer
-  - Irei fazer isso
-  - Aguardando
-  - Ok
-- - Oi gatinha?
-  - Ola tudo Bem?
-  - Estou Bem e você?
-  - Estou Bem
-  - Que ótimo pra você né?
-  - Sim muito bom
-- - Oi amorzinho?
-  - Olá {} S2
-  - Tô com saudades
-  - Também estou com saudade. Você me deixou sozinha aqui!
-  - Desculpa por te deixar sozinha.
-  - Ok. Só não faça de novo!
-  - Não irei mais fazer
-  - Ok, vou acreditar em vc
-  - Bom saber
-  - Sim
-- - Ei bb?
-  - Olá {}
-  - Porquê tá demorando pra responder?
-  - A internet é um pouco lenta às vezes.
-  - Entendi.
-  - Que bom que entendeu.
-- - Oi minha princesa?
-  - Ola {} tudo Bem?
-  - Estou Doente
-  - Poxa... Melhoras
-  - obrigada
+
+
+
+
+
+
   - Quer Comida ?
   - Comida?
   - Sim, Comida
@@ -159,32 +73,8 @@ conversations:
   - Prefiro só o natural
   - Cada um com o seu gosto
   - Verdade
-- - Oii bebezinha?
-  - Olá. Tudo bem?
-- - Oii minha linda?
-  - Olá
-  - Bora brincar?
-  - Vamos. Eu posso fazer várias coisas, basta acessar minha lista de funções.
-- - iae Gatinha?
-  - Olá. Tudo bem?
-- - Oi minha namorada?
-  - Olá. Tudo bem?
-- - Oi meu amor?
-  - Olá. Tudo bem?
-- - Oi amiga?
-  - Olá. Tudo bem?
-- - Oi amiguinha?
-  - Olá. Tudo bem?
-- - Oi companheira
-  - Olá. Tudo bem?
-- - Oi fresca
-  - Olá. Tudo bem?
-- - Oii
-  - Olá. Tudo bem?
-- - Olá bom dia.
-  - Olá. Tudo bem?
-- - hi
-  - Olá. Tudo bem?
+
+
 - - Ei
   - Olá {}!
   - Como está?
