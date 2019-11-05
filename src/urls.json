@@ -16,7 +16,7 @@
     "subcategory": "citation"
   },
   {
-    "nome": "perguntas",
+    "nome": "Perguntas",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/perguntas.json",
     "type": "json",
     "language": "PT-BR",
@@ -24,7 +24,7 @@
     "subcategory": "question"
   },
   {
-    "nome": "provérbio",
+    "nome": "Provérbio",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/proverbio.json",
     "type": "json",
     "language": "PT-BR",
@@ -32,7 +32,7 @@
     "subcategory": "saying"
   },
   {
-    "nome": "curiosidade",
+    "nome": "Curiosidade",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/curiosidade.json",
     "type": "json",
     "language": "PT-BR",
@@ -40,7 +40,7 @@
     "subcategory": "entertainment"
   },
   {
-    "nome": "piadas",
+    "nome": "Piadas",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/piadas.json",
     "type": "json",
     "language": "PT-BR",
@@ -48,7 +48,7 @@
     "subcategory": "joke"
   },
   {
-    "nome": "cmd",
+    "nome": "CMD",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/cmd.json",
     "type": "json",
     "language": "PT-BR",
@@ -56,7 +56,7 @@
     "subcategory": "cmd_list"
   },
   {
-    "nome": "comandos",
+    "nome": "Comandos",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/comandos.json",
     "type": "json",
     "language": "PT-BR",
@@ -64,7 +64,7 @@
     "subcategory": "commands"
   },
   {
-    "nome": "definicao",
+    "nome": "Definição",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/definicao.json",
     "type": "json",
     "language": "PT-BR",
@@ -72,7 +72,7 @@
     "subcategory": "search"
   },
   {
-    "nome": "google",
+    "nome": "Google",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/google.json",
     "type": "json",
     "language": "PT-BR",
@@ -80,7 +80,7 @@
     "subcategory": "search"
   },
   {
-    "nome": "wikipedia",
+    "nome": "Wikipedia",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/wikipedia.json",
     "type": "json",
     "language": "PT-BR",
@@ -88,7 +88,7 @@
     "subcategory": "search"
   },
   {
-    "nome": "mensagens",
+    "nome": "Mensagens",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/mensagens.json",
     "type": "json",
     "language": "PT-BR",
@@ -96,11 +96,27 @@
     "subcategory": "msg"
   },
   {
-    "nome": "quiz",
+    "nome": "Quiz",
     "url": "https://pedroermarinho.github.io/Dominik-dic/src/json/quiz.json",
     "type": "json",
     "language": "PT-BR",
     "category": "quiz",
     "subcategory": "alternative-questionnaire"
+  },
+  {
+    "nome": "Links yml formally ",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "link_yml",
+    "subcategory": "formally"
+  },
+  {
+    "nome": "Links yml informally ",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/informally.yml",
+    "type": "yml",
+    "language": "PT-BR",
+    "category": "link_yml",
+    "subcategory": "informally"
   }
 ]
