@@ -105,7 +105,7 @@
   },
   {
     "nome": "Links yml formally ",
-    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally.yml",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/formally.json",
     "type": "yml",
     "language": "PT-BR",
     "category": "link_yml",
@@ -113,7 +113,7 @@
   },
   {
     "nome": "Links yml informally ",
-    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/informally.yml",
+    "url": "https://pedroermarinho.github.io/Dominik-dic/src/yml/informally.json",
     "type": "yml",
     "language": "PT-BR",
     "category": "link_yml",
