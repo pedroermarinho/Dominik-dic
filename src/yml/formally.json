@@ -117,7 +117,7 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": ""
+    "subcategory": "money"
   },
   {
     "nome": "Filmes",
@@ -125,7 +125,7 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": ""
+    "subcategory": "movies"
   },
   {
     "nome": "Política",
