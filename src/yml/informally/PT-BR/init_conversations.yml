@@ -1,10 +1,14 @@
 categories:
+- conversations
 - init conversations
 type:
 - informally
 language:
 - PT-BR
 conversations:
+- - categories
+  - informally init conversations
+  - informally conversations
 - - Oi Mamãe.
   - Oi {}
   - Como vai?

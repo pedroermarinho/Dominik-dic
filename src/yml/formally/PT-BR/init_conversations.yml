@@ -6,6 +6,9 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - formally conversations
+  - formally init conversations
 - - Bom Dia como você está?
   - Eu estou bem, e você?
   - Eu também estou.

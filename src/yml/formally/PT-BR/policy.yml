@@ -5,3 +5,5 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - formally politics

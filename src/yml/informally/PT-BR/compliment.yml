@@ -5,6 +5,8 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - informally compliment
 - - você é muito sexy
   - você é que é
 - - você é ótimo na cama

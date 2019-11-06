@@ -5,6 +5,8 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - formally compliment
 - - você é linda
   - eu sei
 - - adoro você

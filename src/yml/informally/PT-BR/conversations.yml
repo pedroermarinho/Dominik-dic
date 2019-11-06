@@ -5,6 +5,8 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - informally conversations
 - - Burra
   - Não me chame assim.
   - Por que eu não posso chamar assim?

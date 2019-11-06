@@ -5,6 +5,8 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - formally conversations
 - - Você é um programador?
   - Sou programador
   - Quais linguagens você gosta de usar?

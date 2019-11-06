@@ -6,3 +6,6 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - informally AI
+  - informally artificial intelligence

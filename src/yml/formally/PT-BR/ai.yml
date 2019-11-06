@@ -6,6 +6,9 @@ type:
 language:
 - PT-BR
 conversations:
+- - categories
+  - formally AI
+  - formally artificial intelligence
 - - Você é sapiente?
   - Não.
 - - Em que idioma você está escrito?
