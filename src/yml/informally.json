@@ -5,7 +5,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "ai"
+    "subcategory": "ai",
+    "classification": "informally"
   },
   {
     "nome": "Perfil Bot",
@@ -13,7 +14,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "botprofile"
+    "subcategory": "botprofile",
+    "classification": "informally"
   },
   {
     "nome": "Elogio",
@@ -21,7 +23,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "compliment"
+    "subcategory": "compliment",
+    "classification": "informally"
   },
   {
     "nome": "Computadores",
@@ -29,7 +32,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "computers"
+    "subcategory": "computers",
+    "classification": "informally"
   },
   {
     "nome": "Conversas",
@@ -37,7 +41,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "conversations"
+    "subcategory": "conversations",
+    "classification": "informally"
   },
   {
     "nome": "Emoção",
@@ -45,7 +50,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "emotion"
+    "subcategory": "emotion",
+    "classification": "informally"
   },
   {
     "nome": "Comida",
@@ -53,7 +59,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "food"
+    "subcategory": "food",
+    "classification": "informally"
   },
   {
     "nome": "Jogos",
@@ -61,7 +68,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "games"
+    "subcategory": "games",
+    "classification": "informally"
   },
   {
     "nome": "Fofoca",
@@ -69,7 +77,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "gossip"
+    "subcategory": "gossip",
+    "classification": "informally"
   },
   {
     "nome": "Saudações",
@@ -77,7 +86,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "greetings"
+    "subcategory": "greetings",
+    "classification": "informally"
   },
   {
     "nome": "Saúde",
@@ -85,7 +95,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "health"
+    "subcategory": "health",
+    "classification": "informally"
   },
   {
     "nome": "História",
@@ -93,7 +104,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "history"
+    "subcategory": "history",
+    "classification": "informally"
   },
   {
     "nome": "Humor",
@@ -101,7 +113,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "humor"
+    "subcategory": "humor",
+    "classification": "informally"
   },
   {
     "nome": "Literatura",
@@ -109,7 +122,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "literatura"
+    "subcategory": "literatura",
+    "classification": "informally"
   },
   {
     "nome": "Dinheiro",
@@ -117,7 +131,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "money"
+    "subcategory": "money",
+    "classification": "informally"
   },
   {
     "nome": "Filmes",
@@ -125,7 +140,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "movies"
+    "subcategory": "movies",
+    "classification": "informally"
   },
   {
     "nome": "Política",
@@ -133,7 +149,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "policy"
+    "subcategory": "policy",
+    "classification": "informally"
   },
   {
     "nome": "Psicologia",
@@ -141,7 +158,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "psychology"
+    "subcategory": "psychology",
+    "classification": "informally"
   },
   {
     "nome": "Ciência",
@@ -149,7 +167,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "science"
+    "subcategory": "science",
+    "classification": "informally"
   },
   {
     "nome": "Esportes",
@@ -157,7 +176,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "sports"
+    "subcategory": "sports",
+    "classification": "informally"
   },
   {
     "nome": "Sugestões",
@@ -165,7 +185,8 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "suggestions"
+    "subcategory": "suggestions",
+    "classification": "informally"
   },
   {
     "nome": "Trivialidades",
@@ -173,6 +194,7 @@
     "type": "yml",
     "language": "PT-BR",
     "category": "conversations",
-    "subcategory": "trivia"
+    "subcategory": "trivia",
+    "classification": "informally"
   }
 ]
